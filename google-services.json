@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "96209477818",
+    "project_id": "suraj-35feb",
+    "storage_bucket": "suraj-35feb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96209477818:android:704196564af37c52b02283",
+        "android_client_info": {
+          "package_name": "com.workbysuraj.mynewapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuMZVkP2Cew9CcEHRJjIRj7L9bUa2Cmvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
